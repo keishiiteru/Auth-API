@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth.WebAPI", "Auth.WebAPI\Auth.WebAPI.csproj", "{FE731024-74E8-48A1-953C-BE129F496F17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth.Data", "Auth.Data\Auth.Data.csproj", "{8168C451-7A82-4929-AEC9-0C359A810257}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FE731024-74E8-48A1-953C-BE129F496F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE731024-74E8-48A1-953C-BE129F496F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE731024-74E8-48A1-953C-BE129F496F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8168C451-7A82-4929-AEC9-0C359A810257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8168C451-7A82-4929-AEC9-0C359A810257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8168C451-7A82-4929-AEC9-0C359A810257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8168C451-7A82-4929-AEC9-0C359A810257}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
